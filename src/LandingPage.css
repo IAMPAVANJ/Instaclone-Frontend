@@ -1,0 +1,42 @@
+/* .l-page-img{
+  margin-top: 200px;
+  margin-left: 100px;
+}  */
+
+.l-page-btn{
+  background-color: blueviolet;
+  border: none;
+  border-radius: 5px;
+  /* width: 40px; */
+  height: 30px;
+  width: 200px;
+  color: white;
+  font-weight: 700;
+  margin-right: 30px;
+}
+.landing-page{
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.b-img{
+  width: 800px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  margin-left: 224px;
+  
+  
+
+}
