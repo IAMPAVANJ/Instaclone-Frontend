@@ -34,7 +34,7 @@ const PostView = () => {
                     </span>
                 </section>
                 <section className="card-image">
-                    <img src={`http://localhost:3008/images/${item.image}`} alt="place" />
+                    <img src={`https://instaclone-backend-pxbv.onrender.com/images/${item.image}`} alt="place" />
                 </section>
                 <section className="card-actions">
                     <span>
